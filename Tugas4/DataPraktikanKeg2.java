@@ -2,7 +2,7 @@ package Praktikum.Tugas4;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
-
+//HASH MAP
 public class DataPraktikanKeg2 {
 	private HashMap<String, String> tabelData;
 	private HashMap<String, String> tabelSesiLogin;
